@@ -3,12 +3,12 @@ package com.javafundamentals.generics;
 import java.util.ArrayList;
 import java.util.List;
 
-public class UnboundedExample_3 {
+public class UnboundExample_3 {
 
     List<Building> buildings = new ArrayList<>();
 
     public static void main(String[] args) {
-        UnboundedExample_3 testObj = new UnboundedExample_3();
+        UnboundExample_3 testObj = new UnboundExample_3();
         testObj.demo();
     }
 
